@@ -9,6 +9,6 @@
 
 ✅ - Please check our [Telegram channel](https://t.me/qasvus) for tons of QA Testing vacancies in US  
 
-#### My favorite (QA and programming related) quote 
+#### My favorite (QA and programming related) quote: 
 > Everything is easy, when you know how to do this.  
 > Don't talk, just try to do.
