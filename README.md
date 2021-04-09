@@ -1,16 +1,14 @@
-### Hi there 👋
+## my name is Sergey Efremov, I'm QA Engineer and QA Mentor from California, US ✨
 
-<!--
-**SergioUS/SergioUS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About me 
+⚡ - I'm teaching [QA Automation](https://qasv.us/aboutqa) and [QA Manual](https://qasv.us/qamanual)💻 at our Online course [QA at Silicon Valley - QASV.US](https://qasv.us/)  
 
-Here are some ideas to get you started:
+👋 - Feel free to join our FREE online Trial classes by submitting [this form](https://qasv.us/#form)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏆 - Also you could watch a lot of video about QA Testing on our [YouTube channel](https://www.youtube.com/SergeyEfremov_USA)  
+
+✅ - Please check our [Telegram channel](https://t.me/qasvus) for tons of QA Testing vacancies in US  
+
+#### My favorite (QA and programming related) quote 
+> Everything is easy, when you know how to do this.  
+> Don't talk, just try to do.
