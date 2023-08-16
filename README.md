@@ -1,4 +1,4 @@
-## Hi there 👋 my name is [Sergey Efremov](https://www.linkedin.com/in/sefremoff/), I'm QA Engineer and QA Mentor from "QA at Silicon Valley California" USA (QASV.US) ✨
+## Hi there 👋 my name is [Sergey Efremov](https://www.linkedin.com/in/sefremoff/), I'm QA Engineer and QA Mentor from "QA at Silicon Valley California" USA - [QASV.US](https://qasv.us/) ✨
 
 #### About me 
 ⚡ - I'm teaching [QA Automation](https://qasv.us/aboutqa) and [QA Manual](https://qasv.us/qamanual)💻 at our Online course [QA at Silicon Valley - QASV.US](https://qasv.us/)  
