@@ -13,4 +13,4 @@
 
 #### My favorite (QA and programming related) quotes: 
 > - Everything is easy, when you know how to do this.  
-> - Don't talk, just try to do.
+> - Don't talk, just try to do
