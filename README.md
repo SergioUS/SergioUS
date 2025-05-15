@@ -23,6 +23,6 @@
 
 > **"Don't just talk—try doing it."**
 
-> **"Everyone is a genius; just believe in yourself!"**
+> **"Everyone is a genius, just believe in yourself!"**
 
 ---
